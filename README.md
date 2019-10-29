@@ -21,6 +21,7 @@ Node v5.2 or later.
 ### Quick start
 
 `npm i`
+
 `npm run dev`
 
 This will start the development server at http://localhost:8080.
@@ -46,6 +47,6 @@ The page will reload if you make edits.<br />
 Runs the app in production mode.<br />
 Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
-### `npm run sass``
+### `npm run sass`
 
 Generates css files from files into scss folder.
