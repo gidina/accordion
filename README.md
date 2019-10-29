@@ -2,6 +2,10 @@
 
 Accordion with Vanilla JS and sass. Shows only the contents of a section at a time.
 
+# Live version in GitHub page
+
+https://gidina.github.io/
+
 ## Table of Contents
 
 - [Get started](#get-started)
